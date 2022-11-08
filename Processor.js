@@ -10,5 +10,4 @@ class Processor {
     return rows;
   }
 }
-
 module.exports = Processor;
